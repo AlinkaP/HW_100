@@ -21,6 +21,5 @@
    21  git checkout main
    22  git merge develop
    23  git log
-   24  cd desktop/nop
    25  cd HW_11
    26  history > command_list.csv
