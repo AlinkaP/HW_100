@@ -1,5 +1,5 @@
-    1  git config --global user.name Kateryna
-    2  git config --global user.email kateryna@gmail.com
+    1  git config --global user.name KaterynaMarasina
+    2  git config --global user.email emarasina0308@gmail.com
     3  git clone https://github.com/KaterynaMarasina/HW_10.git
     4  cd HW_11
     5  touch text_ignore.txt
